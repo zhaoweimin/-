@@ -73,3 +73,12 @@
 > [home]: http://www.baidu.com "home"
 > [名称]: http://www.baidu.com "名称"
 这里是[name], 有个[home], 哈哈哈哈 [名称]
+
+### 图片
+用法跟链接的基本一样，唯一的不同就是，图片前面要写一个！（这是必须的），没什么好说的
+![图片](https://image.shutterstock.com/image-vector/merry-christmas-happy-new-year-600w-1856929237.jpg)
+
+
+### 代码框
+#### 第一种 单行用 ``
+`const name = "Jaken"`
