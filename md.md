@@ -82,7 +82,7 @@
 ### 代码框
 #### 第一种 单行用 ``
 `const name = "Jaken"`
-### 多行用 ```
+#### 多行用 ```
 ```
 function binarySearch(arr, target, start, end) {
     var idx = Math.floor((start + end) / 2);
@@ -99,4 +99,16 @@ function binarySearch(arr, target, start, end) {
         return idx;
     }
 }
+```
+
+### 表格
+|name|age|sex|
+|-|-|-|
+|Tony|20|男|
+|Lucy|18|女|
+```
+|name|age|sex|
+|-|-|-|
+|Tony|20|男|
+|Lucy|18|女|
 ```
