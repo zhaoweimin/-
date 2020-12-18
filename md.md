@@ -134,18 +134,18 @@
 ```
 ### 链接
 行内式 [github](https://github.com)
----
 带title[github](https://github.com "github")
----
+
+声明
 [name]: http://www.baidu.com "name"
 [home]: http://www.baidu.com "home"
 [名称]: http://www.baidu.com "名称"
 这里是[name], 有个[home], 哈哈哈哈 [名称]
 ```
 行内式 [github](https://github.com)
----
 带title[github](https://github.com "github")
----
+
+声明
 [name]: http://www.baidu.com "name"
 [home]: http://www.baidu.com "home"
 [名称]: http://www.baidu.com "名称"
